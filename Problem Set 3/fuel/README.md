@@ -1,4 +1,4 @@
-# Fuel Gauge
+# Fuel Gauge (FizzBuzz Knock-Off)
 
 Fuel gauges indicate, often with fractions, just how much fuel is in a tank. For instance 1/4 indicates that a tank is 25% full, 1/2 indicates that a tank is 50% full, and 3/4 indicates that a tank is 75% full.
 
